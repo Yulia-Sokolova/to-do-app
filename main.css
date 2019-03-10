@@ -1,0 +1,29 @@
+h1 {
+  color: FF0080;
+}
+
+ form {
+ margin-left: 50px;
+}
+
+#toDoList {
+  margin-left: 65px;
+  list-style-type: none;
+}
+
+li {
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+li > input {
+  position: absolute;
+  left:50px;
+  margin-top: 5px;
+
+}
+
+li > button {
+position: absolute;
+left: 281px;
+}
